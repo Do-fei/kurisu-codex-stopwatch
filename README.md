@@ -230,6 +230,10 @@ This is an independent local hardware companion experiment for Codex. It is not 
 
 ## License / 许可证
 
-No open-source license has been selected yet. Add a license before accepting external contributions.
+Code in this repository is licensed under the MIT License. See [LICENSE](LICENSE).
 
-目前尚未选择开源许可证。接受外部贡献前请先补充许可证。
+本仓库中的代码采用 MIT License 授权。详见 [LICENSE](LICENSE)。
+
+Character-inspired visual assets, mascot styling, poster images, and fan-inspired art direction are not covered by the MIT License. If you publish a derivative or commercial product, replace them with assets you own or have properly licensed.
+
+角色灵感视觉素材、小人风格、海报图片和粉丝向美术方向不包含在 MIT License 授权范围内。如果你要发布衍生项目或商业产品，请替换为你拥有版权或已获得授权的素材。
