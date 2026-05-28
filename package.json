@@ -1,0 +1,10 @@
+{
+  "name": "kurisu-codex-stopwatch",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "bridge": "node bridge/codex-watch-bridge.mjs",
+    "test": "node --test tests/server/*.test.mjs",
+    "check": "node --check bridge/codex-watch-bridge.mjs && node --test tests/server/*.test.mjs"
+  }
+}

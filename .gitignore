@@ -1,0 +1,30 @@
+.DS_Store
+
+# Local bridge/runtime output
+.codex-watch/
+bridge.log
+*.log
+
+# Node
+node_modules/
+npm-debug.log*
+
+# PlatformIO / firmware build output
+.pio/
+.platformio-core/
+firmware/.pio/
+firmware/.platformio-core/
+firmware/src/config_local.h
+firmware/src/*.local.h
+firmware/**/*.bin
+firmware/**/*.elf
+firmware/**/*.map
+
+# Python helper output
+__pycache__/
+*.pyc
+
+# Editor / OS noise
+.idea/
+.vscode/
+*.swp
